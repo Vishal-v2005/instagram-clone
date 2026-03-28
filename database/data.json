@@ -1,0 +1,266 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "mr_kakashii",
+      "name": "Vishal",
+      "profilePic": "my-app/src/assets/kakashii logo.jpg"
+    },
+    {
+      "id": "2",
+      "username": "kingstar_selva",
+      "name": "selva",
+      "profilePic": "my-app/src/assets/selva logo.jpg"
+    }
+  ],
+  "posts": [
+    {
+      "id": "101",
+      "userId": 1,
+      "username": "mr_wolf",
+      "profilePic": "/src/assets/post user1.jpg",
+      "image": "/src/assets/post1.jpg",
+      "caption": "My car is a rocket 🚀",
+      "likes": 400,
+      "timestamp": "2026-03-20T10:30:00Z"
+    },
+    {
+      "id": "102",
+      "userId": 2,
+      "image": "/src/assets/post2.jpg",
+      "username": "Cutie",
+      "caption": "I love Dubai 😎",
+      "likes": 950,
+      "timestamp": "2026-03-21T12:00:00Z",
+      "profilePic": "/src/assets/post user2.jpg"
+    },
+    {
+      "id": "103",
+      "userId": 3,
+      "username": "stylish_dude_88",
+      "profilePic": "/src/assets/post user3.jpg",
+      "image": "/src/assets/post3.jpg",
+      "caption": "Black Demon",
+      "likes": 1200,
+      "timestamp": "2026-03-20T10:30:00Z"
+    },
+    {
+      "id": "104",
+      "userId": 4,
+      "image": "/src/assets/post4.jpg",
+      "username": "boy_with_swag",
+      "caption": "Leo Dass!..",
+        "likes": 5000,
+      "timestamp": "2026-03-21T12:00:00Z",
+      "profilePic": "/src/assets/post user4.jpg"
+    },
+    {
+      "id": "105",
+      "userId": 5,
+      "username": "the_funky_boy",
+      "profilePic": "/src/assets/post user5.jpg",
+      "image": "/src/assets/post5.jpg",
+      "caption": "KTM 310🚀",
+      "likes": 1200,
+      "timestamp": "2026-03-20T10:30:00Z"
+    },
+    {
+      "id": "106",
+      "userId": 6,
+      "image": "/src/assets/post6.jpg",
+      "username": "The_Inventor_King",
+      "caption": "Love to ride 😎",
+      "likes": 9500,
+      "timestamp": "2026-03-21T12:00:00Z",
+      "profilePic": "/src/assets/post user6.jpg"
+    },
+    {
+      "id": "107",
+      "userId": 7,
+      "username": "Midnight_Rider",
+      "profilePic": "/src/assets/post user7.jpg",
+      "image": "/src/assets/post7.jpg",
+      "caption": "Couple goal completed...",
+      "likes": 2000,
+      "timestamp": "2026-03-20T10:30:00Z"
+    },
+    {
+      "id": "108",
+      "userId": 8,
+      "image": "/src/assets/post8.jpg",
+      "username": "cute_princess",
+      "caption": "Love myself",
+      "likes": 5000,
+      "timestamp": "2026-03-21T12:00:00Z",
+      "profilePic": "/src/assets/post user8.jpg"
+    },
+    {
+      "id": "109",
+      "userId": 9,
+      "username": "lovely_miss",
+      "profilePic": "/src/assets/post user9.jpg",
+      "image": "/src/assets/post9.jpg",
+      "caption": "Just Click...",
+      "likes": 12000,
+      "timestamp": "2026-03-20T10:30:00Z"
+    },
+    {
+      "id": "110",
+      "userId": 10,
+      "image": "/src/assets/post10.jpg",
+      "username": "pretty_miss",
+      "caption": "my love",
+      "likes": 9500,
+      "timestamp": "2026-03-21T12:00:00Z",
+      "profilePic": "/src/assets/post user10.jpg"
+    },
+    {
+      "id": "111",
+      "userId": 11,
+      "username": "drama__queen",
+      "profilePic": "/src/assets/post user11.jpg",
+      "image": "/src/assets/post11.jpg",
+      "caption": "beatiful SunSet",
+      "likes": 2500,
+      "timestamp": "2026-03-20T10:30:00Z"
+    },
+    {
+      "id": "112",
+      "userId": 12,
+      "image": "/src/assets/post12.jpg",
+      "username": "thebarbiegirl",
+      "caption": "mind wind and amazing climate",
+      "likes": 50,
+      "timestamp": "2026-03-21T12:00:00Z",
+      "profilePic": "/src/assets/post user12.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1001",
+      "postId": 101,
+      "userId": 2,
+      "text": "Nice work bro 🔥"
+    },
+    {
+      "id": "1002",
+      "postId": 102,
+      "userId": 1,
+      "text": "Super clean UI 👌"
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "username": "mr_kakashii._.",
+    "name": "Vishal",
+    "profilePic": "/src/assets/kakashii logo.jpg"
+  },
+  "suggestion": [
+    {
+      "id": "1",
+      "username": "Joker_Payan",
+      "name": "Vishal",
+      "profilePic": "/src/assets/ahkil logo.jpg"
+    },
+    {
+      "id": "2",
+      "username": "Uncle_Naveen",
+      "name": "selva",
+      "profilePic": "/src/assets/naveen logo.jpg"
+    },
+    {
+      "id": "3",
+      "username": "praveen_neymar",
+      "name": "selva",
+      "profilePic": "/src/assets/praveen dp.jfif"
+    }
+  ],
+  "stories": [
+    {
+      "id": "1",
+      "userId": 1,
+      "username": "vishal",
+      "profilePic": "/src/assets/kakashii logo.jpg",
+      "image": "/src/assets/story1.jpg",
+      "caption": "Building my Instagram clone 🚀",
+      "likes": 120,
+      "timestamp": "2026-03-20T10:30:00Z"
+    },
+    {
+      "id": "2",
+      "userId": 2,
+      "image": "/src/assets/story2.jfif",
+      "username": "kingstar_selva",
+      "caption": "React is awesome 😎",
+      "likes": 95,
+      "timestamp": "2026-03-21T12:00:00Z",
+      "profilePic": "/src/assets/selva logo.jpg"
+    },
+    {
+      "id": "3",
+      "userId": 3,
+      "image": "/src/assets/story3.jpg",
+      "username": "Uncle_Naveen",
+      "caption": "React is awesome 😎",
+      "likes": 95,
+      "timestamp": "2026-03-21T12:00:00Z",
+      "profilePic": "/src/assets/naveen logo.jpg"
+    },
+    {
+      "id": "4",
+      "userId": 4,
+      "image": "/src/assets/post1.jpg",
+      "username": "mr_wolf",
+      "caption": "React is awesome 😎",
+      "likes": 95,
+      "timestamp": "2026-03-21T12:00:00Z",
+      "profilePic": "/src/assets/post user1.jpg"
+    },
+    {
+      "id": "5",
+      "userId": 5,
+      "image": "/src/assets/post2.jpg",
+      "username": "king_18",
+      "caption": "React is awesome 😎",
+      "likes": 95,
+      "timestamp": "2026-03-21T12:00:00Z",
+      "profilePic": "/src/assets/post user6.jpg"
+    },
+    {
+      "id": "6",
+      "userId": 6,
+      "image": "/src/assets/post4.jpg",
+      "username": "priya",
+      "caption": "React is awesome 😎",
+      "likes": 95,
+      "timestamp": "2026-03-21T12:00:00Z",
+      "profilePic": "/src/assets/post user8.jpg"
+    },
+    {
+      "id": "7",
+      "userId": 7,
+      "image": "/src/assets/post5.jpg",
+      "username": "Unquie_girl",
+      "caption": "React is awesome 😎",
+      "likes": 95,
+      "timestamp": "2026-03-21T12:00:00Z",
+      "profilePic": "/src/assets/post user9.jpg"
+    },
+    {
+      "id": "8",
+      "userId": 2,
+      "image": "/src/assets/post6.jpg",
+      "username": "Sweety",
+      "caption": "React is awesome 😎",
+      "likes": 95,
+      "timestamp": "2026-03-21T12:00:00Z",
+      "profilePic": "/src/assets/post user10.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "1",
+      "username": "Joker_Payan"
+    }
+  ]
+}
